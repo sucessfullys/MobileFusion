@@ -1,2 +1,2 @@
 # MobileFusion
-# This is the official code for MobileFusion, and we will release it soon.
+# This is the official code for MobileFusion, and we will release it.
